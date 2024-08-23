@@ -1,10 +1,7 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <title>Laith Preston</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-        <p>github pages hosting</p>
-    </body>
-</html>
+---
+title: Home!
+my_number: 5
+---
+{% include navigation.html %}
+        <h1>{{ "Hello World!" | downcase }}</h1>
+        <p>No disassemble #{{ page.my_number }}</p>
