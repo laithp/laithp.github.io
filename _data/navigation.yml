@@ -7,7 +7,7 @@
 - name: Projects
   link: /projects.html
   icon: code-block
-- name: Blog
+- name: Dev Blog
   link: /blog.html
   icon: notepad 
 #- name: CV
