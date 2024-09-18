@@ -3,4 +3,11 @@ title: Home
 ---
 
         <h1>Welcome to my page</h1>
+       
+                {% for post in site.posts %}
+                  <h2><a href="{{ post.url }}"><i class='bx bx-note'></i> {{ post.title }}</a></h2>
+                    <span>{{ post.date | date_to_string: "ordinal", "US" }}</span>
+                  
+                  {% break %}
+                {% endfor %}
         
