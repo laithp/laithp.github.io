@@ -2,6 +2,7 @@
     {% for item in site.data.navigation %}
     <div>
       <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+        <i class='bx bx-{{ item.icon }}'></i>
         {{ item.name }}
       </a>
     </div>

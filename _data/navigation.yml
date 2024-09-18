@@ -1,8 +1,14 @@
 - name: Home
   link: /
+  icon: home
 - name: About
   link: /about.html
+  icon: face
+- name: Projects
+  link: /projects.html
+  icon: code-block
 - name: Blog
   link: /blog.html
+  icon: notepad 
 #- name: CV
 #  link: /cv.html
