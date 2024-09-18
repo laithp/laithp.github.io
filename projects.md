@@ -12,7 +12,7 @@ I am going to be working on a number of different projects to expand my working 
     <li>GitHub Pages</li>
     <li>Jekyll</li>
     <li>Liquid</li>
-    <li>CSS</li>
+    <li>CSS/Sass</li>
     </ul>
     </li>
     <li><em><a href="/blog.html">Dev Blog</a></em> - <br/>
