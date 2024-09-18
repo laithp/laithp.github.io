@@ -36,16 +36,19 @@ nav a {
   text-decoration: none;
   font-weight: bold;
 }
-
-div.content {
-  margin-left: 50px
-}
-h1, p {
- // margin-left: 50px;
-}
-
-
 .current {
     color: white;
+}
+
+
+div.content {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+.avatar {
+  width: 15%;
+  border-radius: 50% !important;
 }
 
