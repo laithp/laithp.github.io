@@ -3,12 +3,12 @@ title: Dev Blog
 ---
 <h1>Dev Blog</h1>
 <p>I am documenting my thoughts and progress here.</p>
-<ul>
+<section>
   {% for post in site.posts %}
-    <li>
+    <article>
       <h2><a href="{{ post.url }}"><i class='bx bx-note'></i> {{ post.title }}</a></h2>
       <span>{{ post.date | date_to_string: "ordinal", "US" }}</span>
       {{ post.excerpt }}
-    </li>
+    </article>
   {% endfor %}
-</ul>
+</section>
