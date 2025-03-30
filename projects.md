@@ -22,6 +22,6 @@ I am going to be working on a number of different projects to expand my working 
     I am going to be working on a number of John Crickett's Coding Challenges. I will write about them in my Dev Blog, and what I have (completed or not) will be posted in a GitHub repo <a href="https://github.com/laithp/coding-challenges" target="_new">https://github.com/laithp/coding-challenges</a>
     </li>
     <li><em>Advent of Code</em> - <br/>
-    I am working on the <a href="https://adventofcode.com/" target="_new">2023 Advent of Code</a> challenges right now, on Dec 1 when the 2024 set drops I will switch over to doing them. My repo for this is <a href="https://github.com/laithp/adventofcode" target="_new">https://github.com/laithp/adventofcode</a>.
+    I will be occasionally working through the <a href="https://adventofcode.com/" target="_new">Advent of Code</a> challenges. My repo for this is <a href="https://github.com/laithp/adventofcode" target="_new">https://github.com/laithp/adventofcode</a>.
     </li>
 </ul>
